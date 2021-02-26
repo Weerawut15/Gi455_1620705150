@@ -15,6 +15,7 @@
     </explicitIncludes>
     <explicitExcludes>
       <Path>.idea</Path>
+      <Path>B</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>
